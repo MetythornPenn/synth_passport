@@ -1,0 +1,5 @@
+*.pyc
+uploaded
+.vercel
+*.jpg
+*.png

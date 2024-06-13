@@ -1,4 +1,4 @@
-# SynthMRZ
+# Synth Passport Script
 
 Code for generating synthetic MRZ images
 
